@@ -1,0 +1,637 @@
+[
+    {
+        "name": "Alvina",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/77/Gata_Alvina.jpg/revision/latest?cb=20160708230938&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Anastacia de Astora",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/24/Anastacia_de_Astora.jpg/revision/latest?cb=20190201160305&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Anochecer de Oolacile",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/cd/Anochecer.png/revision/latest?cb=20180816192235&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Beatriz la bruja",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/42/Beatriz_la_bruja.jpg/revision/latest?cb=20170217002836&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Caballero de la Luna Oscura",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/de/Caballero_de_la_Luna_Oscura.png/revision/latest?cb=20190201164804&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Caballero Lautrec de Carim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b4/Lautrec_de_Carim.jpg/revision/latest?cb=20170619213207&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Chester",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b3/Chester.jpg/revision/latest?cb=20170320180844&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Ciaran",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/04/Ciaran.jpg/revision/latest?cb=20170627025800&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cuervo gigante",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b3/Cuervo_gigante.jpg/revision/latest?cb=20161105161347&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Domhnall de Zena",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/87/Domhnall_de_Zena.jpg/revision/latest?cb=20170205031359&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dragón de piedra",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b3/Drag%C3%B3n_de_piedra.jpg/revision/latest?cb=20161105164150&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Eingyi",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/9/9c/Eingyi.jpg/revision/latest?cb=20161017210915&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Elizabeth",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/26/Elizabeth.jpg/revision/latest?cb=20170119013228&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Frampt el Buscarreyes",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/3/34/Frampt_el_Buscarreyes.png/revision/latest?cb=20161010014840&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gough",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/50/Gough%2C_el_Ojo_de_Halc%C3%B3n.png/revision/latest?cb=20170627031230&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Griggs de Vinheim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/28/Griggs_de_Vinheim.jpg/revision/latest?cb=20161103232729&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Guerrero Alicaído",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/85/Guerrero_Alica%C3%ADdo.jpg/revision/latest?cb=20161004230312&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gwyndolin el Sol Oscuro",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/9/9e/Gwyndolin.jpg/revision/latest?cb=20181225164446&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gwynevere, Princesa de la Luz Solar",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/4c/Gwynevere_II.png/revision/latest?cb=20200413172500&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Hermana de Quelaag",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/65/Hermana_de_Quelaag.jpg/revision/latest?cb=20161023205445&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Herrero gigante",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/d7/Herrero_gigante.jpg/revision/latest?cb=20160104191142&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Ingward",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/59/Ingward.jpg/revision/latest?cb=20170219235632&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Kaathe el Asediador",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/69/Kaathe_el_Asediador.jpg/revision/latest?cb=20190201233333&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Laurentius del Gran Pantano",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b9/Laurentius_del_Gran_Pantano.jpg/revision/latest?cb=20170209004939&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Mercader Alicaído",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/d9/Mercader_Alica%C3%ADdo.jpg/revision/latest?cb=20170317001404&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Mercader no muerto (hombre)",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/22/Mercader_no_muerto_%28hombre%29.jpg/revision/latest?cb=20161028211731&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Mercader no muerto (mujer)",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/9/92/Mercader_no_muerta.jpg/revision/latest?cb=20200413173554&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Nico de Thorolund",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/fd/Nico_de_Thorolund.jpg/revision/latest?cb=20161102231405&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Ornstein el Asesino de dragones",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/3/32/Ornstein_el_Asesino_de_dragones.png/revision/latest?cb=20200913025701&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Oscar, Caballero de Astora",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/65/Oscar%2C_Caballero_de_Astora.jpg/revision/latest?cb=20190202005131&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Oswald de Carim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a3/Oswald_de_Carim.jpg/revision/latest?cb=20170319194824&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Parches",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/7f/Parches.jpg/revision/latest?cb=20160903195233&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Petrus de Thorolund",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/87/Petrus_de_Thorolund.jpg/revision/latest?cb=20161008220718&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Priscilla la Mestiza",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/17/Priscilla02.jpg/revision/latest?cb=20160625040041&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Príncipe Ricard",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/ae/Pr%C3%ADncipe_Ricard.jpg/revision/latest?cb=20161105232213&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Quelana de Izalith",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2f/Quelana_de_Izalith.jpg/revision/latest?cb=20161030211431&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Reah de Thorolund",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/56/Reah_de_Thorolund.jpg/revision/latest?cb=20161011193700&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rickert de Vinheim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/1f/Rickert_de_Vinheim.jpg/revision/latest?cb=20160106165613&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Shiva del Este",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f9/Shiva_del_Este.png/revision/latest?cb=20170212010327&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sieglinde de Catarina",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/d6/Sieglinde_de_Catarina.jpg/revision/latest?cb=20170210023842&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Siegmeyer de Catarina",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2e/Siegmeyer_de_Catarina.jpg/revision/latest?cb=20161101175941&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Smough el Verdugo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/6f/Smough_el_Verdugo.png/revision/latest?cb=20170111224542&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Solaire de Astora",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/05/Solaire.jpg/revision/latest?cb=20190205020627&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sombrero Grande Logan",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/48/Sombrero_Grande_Logan.jpg/revision/latest?cb=20140403130856&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Tarkus Hierro Negro",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b2/Tarkus_Hierro_Negro.jpg/revision/latest?cb=20160812181147&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vamos",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/03/Vamos.jpg/revision/latest?cb=20160106160214&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vince de Thorolund",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b5/Vince_de_Thorolund.jpg/revision/latest?cb=20161102223027&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Afable Pate",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/69/Afable_Pate.png/revision/latest?cb=20170624011607&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Aldia, erudito del primer pecado",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a2/Aldia%2C_erudito_del_primer_pecado.jpg/revision/latest?cb=20160919200018&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Alicaído Saulden",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/20/Alica%C3%ADdo_Saulden.png/revision/latest?cb=20161011014044&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Alsanna, Oráculo Callado",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/58/Alsanna%2C_Or%C3%A1culo_Callado.png/revision/latest?cb=20160921004344&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Ancianas Guardianas del Fuego",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/47/Strowen.png/revision/latest?cb=20170624215759&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Armero Ornifex",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/c3/Armero_Ornifex.png/revision/latest?cb=20170627021618&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Benhart de Jugo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2d/Benhart_de_Jugo.jpg/revision/latest?cb=20160929151307&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Caballero de Eleum Loyce",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/87/Caballero_de_Eleum_Loyce.png/revision/latest?cb=20190127175218&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Cale el cartógrafo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/62/Cale.jpg/revision/latest?cb=20161002191627&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Canciller Wellager",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a5/Canciller_Wellager.png/revision/latest?cb=20170826221626&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Capitán Drummond",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a6/Capit%C3%A1n_Drummond.png/revision/latest?cb=20170625204524&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Carhillion del Redil",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/74/Carhillion_del_Redil.png/revision/latest?cb=20161011011633&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Centinela Azul Targray",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/c3/Centinela_Azul_Targray.png/revision/latest?cb=20170625210605&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Comerciante Chloanne",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/10/Comerciante_Chloanne.png/revision/latest?cb=20170623213552&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Creighton el Errabundo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a6/Creighton_el_Errabundo.png/revision/latest?cb=20170628023405&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cromwell el Perdonador",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/50/Cromwell.jpg/revision/latest?cb=20190214204838&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dragón antiguo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f3/Drag%C3%B3n_antiguo.jpg/revision/latest?cb=20160903011509&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Felkin el Proscrito",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/53/Felkin_el_Proscrito.png/revision/latest?cb=20161011013440&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Guardián Agdayne",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b1/Guardi%C3%A1n_Agdayne.png/revision/latest?cb=20170626190016&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Hechicero real Navlaan",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2e/Hechicero_real_Navlaan.png/revision/latest?cb=20170627225903&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Heraldo de Esmeralda",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/aa/Shanalotte.png/revision/latest?cb=20190214211711&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Herrero Lenigrast",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/41/Lenigrast.jpg/revision/latest?cb=20190214233234&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Licia de Lindelt",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/4e/Licia.png/revision/latest?cb=20160929221839&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lucatiel de Mirrah",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f9/Lucatiel_de_Mirrah.png/revision/latest?cb=20170627035155&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Maestro Gilligan",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/74/Maestro_Gilligan.png/revision/latest?cb=20170622010257&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Magerold de Lanafir",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/29/Magerold_de_Lanafir.png/revision/latest?cb=20170627002912&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Maughlin el Armero",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f5/Maughlin_el_Armero.jpg/revision/latest?cb=20161011021125&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "McDuff Manos Firmes",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/04/McDuff_Manos_Firmes.png/revision/latest?cb=20160929013357&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Milibeth",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/fc/Milibeth.png/revision/latest?cb=20170625225344&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Nadalia, Novia de Ceniza",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f1/Nadalia%2C_Novia_de_Ceniza.jpg/revision/latest?cb=20160925210119&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Nashandra",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/8a/Nashandra.jpg/revision/latest?cb=20190211193531&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pequeño Gren",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/0e/Peque%C3%B1o_Gren.jpg/revision/latest?cb=20190215014745&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Protector de la campana de Alken",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/8c/Protector_de_la_campana_de_Alken.jpg/revision/latest?cb=20170712010648&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rosabeth de Melfia",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/1b/Rosabeth_de_Melfia.jpg/revision/latest?cb=20170623204455&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Solitario Gavlan",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/62/Solitario_Gavlan.png/revision/latest?cb=20170626230457&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Straid de Olaphis",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/0f/Straid_de_Olaphis.png/revision/latest?cb=20160929011212&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Tark",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/1c/Tark.png/revision/latest?cb=20170626203016&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vendrick",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/c6/Vendrick.png/revision/latest?cb=20190208185654&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vengarl de Forossa",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/0e/Cabeza_de_Vengarl_de_Forossa.jpg/revision/latest?cb=20151209233819&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Viajero Grandahl",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/dd/Viajero_Grandahl.jpg/revision/latest?cb=20170627001836&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vieja mercader Melentia",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/e/e9/Vieja_mercader_Melentia.jpg/revision/latest?cb=20160929010354&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Anciana de Londor",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/73/Anciana_de_Londor.png/revision/latest?cb=20190124185620&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Anri de Astora",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/ce/Anri.jpg/revision/latest?cb=20170525235743&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Archidiácono McDonnell",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b6/Archidi%C3%A1cono_McDonnell.jpg/revision/latest?cb=20180223050520&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Arquero gigante del Asentamiento de no muertos",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/01/Arquero_gigante.jpg/revision/latest?cb=20170616172550&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Caballero esclavo Gael",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2d/Caballero_esclavo_Gael.png/revision/latest?cb=20170513030059&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Caballero Sagrado Hodrick",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/09/Caballero_Sagrado_Hodrick.jpg/revision/latest?cb=20190124172113&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cornyx del Gran Pantano",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/4e/Cornyx_del_Gran_Pantano.jpg/revision/latest?cb=20170606234901&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Desamparado soñoliento",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/6e/Desamparado_so%C3%B1oliento.png/revision/latest?cb=20170921012541&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "El Irrompible Parches",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/b/b5/El_Irrompible_Parches.png/revision/latest?cb=20170611005316&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Emma, Suma Sacerdotisa del Castillo de Lothric",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/e/e2/Emma%2C_Suma_Sacerdotisa_del_Castillo_de_Lothric.jpg/revision/latest?cb=20170517182356&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Eygon de Carim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/41/Eygon_de_Carim.jpg/revision/latest?cb=20170607003958&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Filianore",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/22/Filianore.png/revision/latest?cb=20170526012732&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Greirat del Asentamiento de no muertos",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a3/Greirat_del_Asentamiento_de_no_muertos.jpg/revision/latest?cb=20170607174010&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Guardiana del Fuego",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/d8/Guardiana_del_Fuego.jpg/revision/latest?cb=20170209020224&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Hawkwood el Desertor",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/51/Hawkwood_el_Desertor.jpg/revision/latest?cb=20170607220840&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Hermana Friede",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/26/Hermana_Friede.png/revision/latest?cb=20170412185927&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Herrero Andre",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/d/dd/Herrero_Andre.jpg/revision/latest?cb=20160903194839&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Horace el mudo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/0a/Horace_el_mudo.jpg/revision/latest?cb=20170526214409&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Irina de Carim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a6/Irina_de_Carim.jpg/revision/latest?cb=20170415004636&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Juez Argo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/43/Juez_Argo.jpg/revision/latest?cb=20170608223451&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Karla",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/9/9c/Karla.jpg/revision/latest?cb=20161217025500&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lapp, el amnésico",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/5d/Lapp.jpg/revision/latest?cb=20170604203617&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Leonhard el Dedo Anular",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/c/cf/Leonhard_el_Dedo_Anular.jpg/revision/latest?cb=20170607205304&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Ludleth de Courland",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/67/Ludleth.png/revision/latest?cb=20170608032438&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Orbeck de Vinheim",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/42/Orbeck_de_Vinheim.jpg/revision/latest?cb=20170615211829&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Padre Ariandel",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/9/92/Padre_Ariandel.png/revision/latest?cb=20170213023437&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Pintora",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/3/38/Pintora.png/revision/latest?cb=20170524022237&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Poblador cuervo desamparado",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/4/41/Poblador_cuervo_desamparado.png/revision/latest?cb=20170921013151&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rey Pigmeo",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/0/00/Rey_Pigmeo.png/revision/latest?cb=20170615182317&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rosaria, madre del renacer",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/f/f0/Rosaria%2C_madre_del_renacer.jpg/revision/latest?cb=20170626035020&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Shira, mujer caballero de Filianore",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/a2/Shira.png/revision/latest?cb=20170609230104&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Siegward de Catarina",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/1/16/Siegward_de_Catarina.png/revision/latest?cb=20170527023448&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sir Vilhelm",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/5/59/Sir_Vilhelm.jpg/revision/latest?cb=20170617213005&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sirris de los Reinos sin sol",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/e/ec/Sirris.jpg/revision/latest?cb=20170307061345&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sirvienta del Santuario",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/6/64/Sirvienta_del_Santuario.jpg/revision/latest?cb=20170525233047&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Vieja arpía de piedra",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/7/7f/Vieja_arp%C3%ADa_de_piedra.png/revision/latest?cb=20170616213415&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Yoel de Londor",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/a/af/Yoel_de_Londor.jpg/revision/latest?cb=20170607234739&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Yorshka, Capitana de la compañía",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/2/2a/Yorshka.jpg/revision/latest?cb=20170524184601&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Yuria de Londor",
+        "image": "https://static.wikia.nocookie.net/dark-souls/images/8/84/Yuria_de_Londor.png/revision/latest?cb=20190122214344&path-prefix=es",
+        "gender": "Female"
+    }
+]

@@ -1,0 +1,24 @@
+# Ignorar el directorio .venv
+.venv/
+
+# Ignorar los archivos .pyc
+*.pyc
+
+# Ignorar los archivos de caché
+__pycache__/
+
+# Ignorar cualquier archivo de configuración local
+*.ini
+*.conf
+*.env
+
+# Ignorar el directorio .space
+.space/
+
+# Ignorar la carpeta .vscode
+.vscode/
+
+# Ignorar los archivos y directorios de PDM
+__pypackages__/
+pdm.lock
+.pdm-python

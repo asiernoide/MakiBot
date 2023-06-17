@@ -1,0 +1,2267 @@
+[
+    {
+        "name": "Abuela Smith",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/35/Granny_Smith_S2E06.png/revision/latest?cb=20130812213040&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Ace",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d8/Ace_2.png/revision/latest?cb=20140714030053&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Adagio Dazzle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/57/Adagio_Dazzle_MLP_EG_RR.png/revision/latest?cb=20170926175401&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Ahuizotl",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/60/Ahuizotl_id_S4E04.png/revision/latest?cb=20140416161637&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Alcaldesa",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/Alcalde.png/revision/latest?cb=20111221235932&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Ambrosia",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a2/Ambrosia.png/revision/latest?cb=20130523150730&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Amethyst Maresbury",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e8/Amethyst_Maresbury_ID_T3E1.png/revision/latest?cb=20160915223256&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Amethyst Star",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/90/Amethyst_Star_id.png/revision/latest?cb=20140429203722&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Amira",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c3/Amira_id_S3E5.png/revision/latest?cb=20130330215002&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Angel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5e/AiP_Angel.png/revision/latest?cb=20150127192625&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Angel Wings",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1a/Angel_Wings_ID_S6E24.png/revision/latest?cb=20170521043019&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Bloom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1c/Apple_Bloom_ID_S6E4.png/revision/latest?cb=20160411140505",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Blossom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/65/Apple_Blossom.png/revision/latest?cb=20130120015702&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Bottom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/78/Apple_Bottom.png/revision/latest?cb=20130120014051&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Bumpkin",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/67/Apple_Bumpkin.png/revision/latest?cb=20111220234513&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Bytes",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bb/S02E17_UEF1.png/revision/latest?cb=20130701003229&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Cobbler",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1f/Apple_cinnamon_crisp.png/revision/latest?cb=20120224012647&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Crumble",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b4/Brown_and_green_Apple_filly_s03e08.png/revision/latest?cb=20130707000058&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Dumpling",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d6/Apple_Dumpling.png/revision/latest?cb=20130120173607&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Flora",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f5/Apple_Flora_ID_S3E8.png/revision/latest?cb=20130817015507&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Fritter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/cb/Apple_Fritter_id.png/revision/latest?cb=20130330012046&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Leaves",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f1/Apple_Leaves.png/revision/latest?cb=20130120012727&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Munchies",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/3e/Apple_Munchies.PNG/revision/latest?cb=20130120014116&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/26/Apple_pie.png/revision/latest?cb=20170916133046&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Rose",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1f/Applerose5.png/revision/latest?cb=20121226021533&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Apple Strudel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/fd/Apple_Strudel_ID.png/revision/latest?cb=20120716231500&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Apple Strudely",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/Apple_strudely.png/revision/latest?cb=20120225162028&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Applejack",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c4/Applejack_yay.png/revision/latest?cb=20130816164237&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Applejack (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5d/Applejack_ID_EGDS4.png/revision/latest?cb=20171106005320",
+        "gender": "Female"
+    },
+    {
+        "name": "Archer Bodkin",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/28/Archer_Bodkin.png/revision/latest?cb=20130227141924&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Ardent",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e4/S3E2_Crystal_stallion_1.png/revision/latest?cb=20130425012514&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Aria Blaze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Aria_Blaze_MLP_EG_RR.png/revision/latest?cb=20170926194614&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Autumn Blaze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c7/Autumn_Blaze_ID_S8E23.png/revision/latest?cb=20180901033928",
+        "gender": "Female"
+    },
+    {
+        "name": "Autumn Gem",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e9/Autumn_Gem_Crystal.png/revision/latest?cb=20131102011634&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Babs Seed",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f3/Babs.png/revision/latest?cb=20130730223158&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Bad Apple",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/01/Comic_issue_32_Bad_Apple.png/revision/latest?cb=20160225051448&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Beauty Brass",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/eb/Beauty_Brass_id_S1E26.png/revision/latest?cb=20160131192051",
+        "gender": "Female"
+    },
+    {
+        "name": "Berry Dreams",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/86/Berry_Dreams.png/revision/latest?cb=20130218143817&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Berry Pinch",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d8/Berry_pinch.png/revision/latest?cb=20130227003251&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Berryshine",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ae/Berry_Punch.jpg/revision/latest?cb=20111230014200&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Big McIntosh",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e8/Bmpony.png/revision/latest?cb=20130720165545&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Big Sugar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d9/Big_Sugar.png/revision/latest?cb=20211101105736&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Blossomforth",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/40/.Blossomforth..png/revision/latest?cb=20140325135007&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Blue Belle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/da/Blue_belle.png/revision/latest?cb=20131018165957&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Blueberry",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9a/Blueberry_Cloud.png/revision/latest?cb=20130508004437&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Blueberry Cake",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/150px-Naomi_ID_EG.png/revision/latest?cb=20141107195555&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Blueberry Swirl",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f7/Blueberry_Cake.png/revision/latest?cb=20120229131142&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Bow Hothoof y Windy Whistles",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/78/Bow_Hothoof_ID_S7E7.png/revision/latest?cb=20170522222435",
+        "gender": "Male"
+    },
+    {
+        "name": "Braeburn",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c9/MLP_LMDLA_Braeburn_T1E21.png/revision/latest?cb=20150219223854&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Brawly Beats",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/99/Brawly_Beast_EG.png/revision/latest?cb=20141116163631&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Breezies",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4b/The_breezies.jpg/revision/latest?cb=20140302163052&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Bright Mac y Pear Butter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8e/Bright_Mac_ID_S7E13.png/revision/latest?cb=20170808004854",
+        "gender": "Male"
+    },
+    {
+        "name": "Bruce Mane",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6b/Brucemane2.png/revision/latest?cb=20121223174209&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Buck Withers",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/Buck_Withers.jpg/revision/latest?cb=20150720234055&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Bulk Biceps",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Bulk_Biceps_ID_S4E05.png/revision/latest?cb=20160227185339&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Burro Gruñón Rebuznón",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2a/Cranky_Doodle_Donkey.png/revision/latest?cb=20130210230624&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Bushel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a0/Bushel_ID_S5E6.png/revision/latest?cb=20150511004415",
+        "gender": "Male"
+    },
+    {
+        "name": "Button Mash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/43/Button_Mash_ID_S2E17.png/revision/latest?cb=20131213232146&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cambiantes",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/df/Los_cambiantes_felices_con_sus_nuevas_formas_T6E26.png/revision/latest?cb=20161231024808&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Candy Apples",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f1/Candy_Apples_ID_S5E6.png/revision/latest?cb=20150626235910&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Candy Floss",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2f/S01E11_Candy_Floss.png/revision/latest?cb=20130623031143&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Candy Mane",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2b/Candy_Mane.png/revision/latest?cb=20120301154342&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Candy Twirl",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c0/Candy_Twirl.png/revision/latest?cb=20130119220536&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Caramel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/09/Caramel.png/revision/latest?cb=20111230020409&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Caramel Apple",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/24/Caramel_Apple.png/revision/latest?cb=20111221184433&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Celestia alterna",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2d/7654321354.png/revision/latest?cb=20140701010212&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cerbero",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/45/Cerberus.png/revision/latest?cb=20121014014027&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Checkered Flag",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/23/Checkered_Flag.png/revision/latest?cb=20120228020610&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cheerilee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a5/Cherpony.png/revision/latest?cb=20130720133729&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cheery",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/Cheery.png/revision/latest?cb=20120301005825&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cheese Sandwich",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/00/Cheese_Sandwich_ID_T4E12.png/revision/latest?cb=20140523010704&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cherry Berry",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1c/Cherry_Berry_id_S01E22.png/revision/latest?cb=20150717200354&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cherry Crash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/21/Cherry_Crash_MLP_EG.png/revision/latest?cb=20141120013021&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cherry Fizzy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/75/Cherry_Fizzy_id.png/revision/latest?cb=20110704211146",
+        "gender": "Male"
+    },
+    {
+        "name": "Cherry Jubilee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/06/Cherries_Jubilee.png/revision/latest?cb=20120220122743&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cherry Spices",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e7/Cherry_Spices_ID_T4E24.png/revision/latest?cb=20150721194950&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cinnamon Swirl",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a1/S02E18_UPM2.png/revision/latest?cb=20130219000341&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Claude",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8f/Claude_ID_T4E23.png/revision/latest?cb=20150721161858&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cloud Kicker",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c4/Cloud_Kicker_2.png/revision/latest?cb=20140417152153&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cloudchaser",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/10/Cloudchaser.png/revision/latest?cb=20130403224641&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cloudy Quartz",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/14/Cloudy_Quartz_IDS5E20.png/revision/latest?cb=20160115030302&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Coco Pommel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8f/Pommel.png/revision/latest?cb=20150705153306&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Coconut",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/26/Coconut.jpg/revision/latest?cb=20120222202838&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cold Front",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bb/Image_Cold_Front.png/revision/latest?cb=20130619234024&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Coloratura",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4f/Coloratura_ID_S5E24.png/revision/latest?cb=20160331020344",
+        "gender": "Female"
+    },
+    {
+        "name": "Comet Tail",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Comet_Tail.png/revision/latest?cb=20150927220647&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Comisario Silver Star",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/74/Sheriff_Silverstar_ID.png/revision/latest?cb=20150705173031&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cookie Crumbles",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/73/Pearl.png/revision/latest?cb=20120720185237&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Coriander Cumin y Saffron Masala",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6b/Coriander_Cumin_ID_T6E12.png/revision/latest?cb=20160803165344&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cotton Cloudy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c3/Cotton.png/revision/latest?cb=20120912210811&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Cozy Glow",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6e/Cozy_Glow_ID_S9E8.png/revision/latest?cb=20190523140839",
+        "gender": "Female"
+    },
+    {
+        "name": "Crackle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/80/Crackle.png/revision/latest?cb=20120319152602&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cragadilo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4f/Screenshot_67.png/revision/latest?cb=20131124043447&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Cream Puff",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a6/Cream_Puff.png/revision/latest?cb=20120303010512&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Crescent Moon",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1c/Crescent_Moon_ID_S04E10.png/revision/latest?cb=20140316152252&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Curly Cobbler",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5c/Curly_Cobbler.png/revision/latest?cb=20130120014830&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Dainty Dove",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/50/Dainty_Dove.png/revision/latest?cb=20130222014029&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Dainty Wood",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a3/Dainty_wood.jpg/revision/latest?cb=20130128012011&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Daisy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c1/Daisy.png/revision/latest?cb=20130331190708&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Daring Do",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e3/Daring_Do_ID_S4E04.png/revision/latest?cb=20170521045648&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Davenport",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Davenport_ID_T3E13.png/revision/latest?cb=20150721222633&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Deep Blue",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/35/Unnamed_earth_pony_mare_hopping_S3E13.png/revision/latest?cb=20130505111832&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Derpy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/73/Derpy_en_Rainbow_Falls.png/revision/latest?cb=20140414223152&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Deshuesado",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a7/240px-Boneless_with_rainbow_shimmer_S4E12.png/revision/latest?cb=20140724170626&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Diamond Mint",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/68/250px-Diamond_Mint_ID_S1E22.png/revision/latest?cb=20140601170225&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Diamond Tiara",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/76/Diamond_Tiara_foto_perfil.png/revision/latest?cb=20151023022604&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Dinky Doo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/30/Dinky_Doo_id.png/revision/latest?cb=20120818193308&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Directora Celestia",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/86/Principal_Celestia_human_ID_EG2.png/revision/latest?cb=20141222002825",
+        "gender": "Female"
+    },
+    {
+        "name": "Directora Cinch",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/cf/Directora_Cinch_ID_EG3.png/revision/latest?cb=20180729154624&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Discord",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a3/Discord_ID_S5E22.png/revision/latest?cb=20160107044157&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dizzy Twister",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6e/Dizzy_twister.png/revision/latest?cb=20120720192021&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "DJ Pon-3",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b2/Twilight_Escribiendo_T01EP5.png/revision/latest?cb=20140121015334&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Doctor Stable",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2e/S02E16_UUS1.png/revision/latest?cb=20130406010722&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Double Diamond",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bf/Double_Diamond_ID_T5E2.png/revision/latest?cb=20150405220706&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dr. Caballeron",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8a/Dr._Caballeron_ID_S4E04.png/revision/latest?cb=20131211041209&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dr. Hooves",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d0/Dr_Whoovest.png/revision/latest?cb=20120206044511&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Dragones",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/22/637px-Dragons_flying_S2E21.png/revision/latest?cb=20120320162003&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Dragón Rojo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a4/Dragon_Mug.jpg/revision/latest?cb=20120206024335&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Dumb-Bell",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4f/Dumbbell.png/revision/latest?cb=20140714012824&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "El Smooze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f9/Smooze_ID_T5E7.png/revision/latest?cb=20150516235338&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Ember",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/fd/Princesa_Ember_ID.png/revision/latest?cb=20160417235850&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Emerald",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/60/S02E18_UEM4.png/revision/latest?cb=20130423010904&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Enfermera Redheart",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f7/Nurse_Redheart_shushing_Pinkie_S2E13.png/revision/latest?cb=20130211032323&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Esmeralda",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4e/S03E02_Crystal_earth_mare_green.png/revision/latest?cb=20130622004430&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Falso Pharaoh",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/01/Pharaoh_Phetlock.png/revision/latest?cb=20150805194947&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Fancy Pants",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4b/Fancypants.png/revision/latest?cb=20111222001603&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Faraday",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Faraday.png/revision/latest?cb=20130608011154&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Feather Bangs",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/97/Feather_Bangs_ID_S7E8.png/revision/latest?cb=20170527194321",
+        "gender": "Male"
+    },
+    {
+        "name": "Featherweight",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4c/Quiz_featherweight56.png/revision/latest?cb=20130424153620&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Fiddly Faddle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/88/Fiddlesticks2.png/revision/latest?cb=20130927055158&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Film Reel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/23/Film_Reel_MLP_LMDLA.png/revision/latest?cb=20150122191804&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Filthy Rich",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9b/Fr10.png/revision/latest?cb=20130827222609&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "First Base",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/87/S4E15UNM1.png/revision/latest?cb=20140223045127&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Flash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/74/Flash.png/revision/latest?cb=20131210215354&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Flash Bulb",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a4/Flashbulb.png/revision/latest?cb=20130625235702&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Flash Magnus",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c0/Flash_Magnus_ID_S7E26.png/revision/latest?cb=20171012212527",
+        "gender": "Male"
+    },
+    {
+        "name": "Flash Sentry",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/28/Flash_Sentry_ID_S4E11.png/revision/latest?cb=20140425221555&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Flash Sentry (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/92/Flash_Sentry_ID_EGSD.png/revision/latest?cb=20180525170839&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Fleetfoot",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/85/Fleetfoot2.png/revision/latest?cb=20140325211917&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Fleur Dis Lee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/33/MLP_LMDLA_Fleur_Dis_Lee_T2E09.png/revision/latest?cb=20150212185945&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Flim y Flam",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7f/Flim.png/revision/latest?cb=20120717002940&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Flitter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bd/Flitter.png/revision/latest?cb=20121012024320&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Flurry Heart",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b2/Flurry_Heart_ID.png/revision/latest?cb=20160330175436&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Fluttershy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/fd/Fluttershy_Perfil_S1E17.png/revision/latest?cb=20131215231615&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Fluttershy (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9a/Fluttershy_ID_CYOE3.png/revision/latest?cb=20180215211824",
+        "gender": "Female"
+    },
+    {
+        "name": "Fruitbasket",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1f/Ryry.png/revision/latest?cb=20130222021907&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Fuchsia Blush",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4e/Fuchsia_Blush.png/revision/latest?cb=20141130023528&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Gabby",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/16/Gabby_ID.png/revision/latest?cb=20170521040240&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Gallo Dragón",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/09/Cockatrice.png/revision/latest?cb=20111224011015&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Gallus",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Gallus_ID_S8E1.png/revision/latest?cb=20180328224846",
+        "gender": "Male"
+    },
+    {
+        "name": "Garble",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/72/E_s.png/revision/latest?cb=20130313001745&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gilda",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0b/Gilda_ID_S5E08.png/revision/latest?cb=20230424225153",
+        "gender": "Female"
+    },
+    {
+        "name": "Giselle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/ca/Giselle_ID_S4E24.png/revision/latest?cb=20160129010119",
+        "gender": "Female"
+    },
+    {
+        "name": "Gizmo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c3/Stallion_with_robot_cutie_mark_s02e19.png/revision/latest?cb=20130131190437&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gladmane",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/01/Gladmane_ID.png/revision/latest?cb=20170820172845&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gloriosa Daisy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/Gloriosa_Daisy_ID.png/revision/latest?cb=20180415192838&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Golden Delicious",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/25/Golden_Delicious.png/revision/latest?cb=20111221182848&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Golden Glitter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/80/Crystal_yellow_mare_looks_surprised_S3E12.png/revision/latest?cb=20131028012200&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Golden Harvest",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5d/Golden_Harvest.png/revision/latest?cb=20140415202013&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Golden Hazel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a3/Golden_EG.png/revision/latest?cb=20140604020004&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Goldengrape",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/dc/Goldengrape_id_S1E7.png/revision/latest?cb=20130413163845&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Goldie Delicious",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c7/Goldie_Delicious_ID_S4E09.png/revision/latest?cb=20140114220818&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Goldilocks",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/38/S3E12_Crystal_earth_mare_scrub.png/revision/latest?cb=20130804001649&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Grand Pear",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4d/Grand_Pear_ID_S7E13.png/revision/latest?cb=20170808004857",
+        "gender": "Male"
+    },
+    {
+        "name": "Green Field",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ab/UEM4_S01E11.png/revision/latest?cb=20140223220157&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Gremlins",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/25/Big_Boy_y_Runt_MLP_CMS.png/revision/latest?cb=20141230180038&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Grogar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e7/Grogar_ID_S9E17.png/revision/latest?cb=20210708204631",
+        "gender": "Male"
+    },
+    {
+        "name": "Guardias Reales",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Guardiascelestia.png/revision/latest?cb=20131106223049&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Gummy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4a/250px-Gummy.png/revision/latest?cb=20111121210850&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Gustave Le Grand",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f2/Gustave_Le_Grand.png/revision/latest?cb=20121013024633&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Haakim",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a4/Haakim.jpg/revision/latest?cb=20130428163927&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Half Note",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/01/Half_Note_ID_S2E6.png/revision/latest?cb=20130227024714&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Happy Trails",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/78/Happy_Trails.jpg/revision/latest?cb=20130121021254&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Hidra",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9d/Hydra.png/revision/latest?cb=20111226212306&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "High Style",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/19/High_Style_2.png/revision/latest?cb=20120129220433&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "High Winds",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ab/High_Winds_ID_S6E7.png/revision/latest?cb=20160709223519",
+        "gender": "Female"
+    },
+    {
+        "name": "Hoity Toity",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/49/250px-Hoity_toity.png/revision/latest?cb=20111119235005&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Holly Dash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/81/Holly_Dash_ID_T1E10.png/revision/latest?cb=20150721211732&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Hondo Flanks",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/90/Magnum.png/revision/latest?cb=20120720185108&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Honey Tone",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/51/S3E12_Crystal_earth_mare_stylist_1.png/revision/latest?cb=20130426005820&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Honeycomb",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/37/Unnamed_Earth_Mare_7_ID_S3E12.png/revision/latest?cb=20130410001208&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Honeysuckle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/21/Honeysuckle.png/revision/latest?cb=20130531020537&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Hoops",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2b/Hoops.png/revision/latest?cb=20130322190045&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Hot Rod",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/Hot_Rod.png/revision/latest?cb=20120229122026&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Humanos",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/85/Students_walking_through_high_school_2_EG.png/revision/latest?cb=20130724233833",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Igneous Rock",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ad/400px-Clyde_looking_S1E23.png/revision/latest?cb=20130501160830&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Indigo Zap",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d8/Indigo_Zap_ID_EG3.png/revision/latest?cb=20170817153936&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Usuaria:Indigo Zest/Borradores/Sandbar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8d/Sandbar_ID_S8E2.png/revision/latest?cb=20180328212530",
+        "gender": "Male"
+    },
+    {
+        "name": "Usuaria:Indigo Zest/Borradores/Silverstream",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/45/Silverstream_ID_S8E1.png/revision/latest?cb=20180329021441",
+        "gender": "Female"
+    },
+    {
+        "name": "Usuaria:Indigo Zest/Borradores/Smolder",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/de/Smolder_ID_S8E1.png/revision/latest?cb=20180328233518",
+        "gender": "Female"
+    },
+    {
+        "name": "Usuaria:Indigo Zest/Borradores/Sonata Dusk",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/62/Sonata_Dusk_MLP_EG_RR.png/revision/latest?cb=20170926194625&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Usuaria:Indigo Zest/Borradores/Yona",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/22/Yona_ID_S8E2.png/revision/latest?cb=20180329000918",
+        "gender": "Female"
+    },
+    {
+        "name": "Iron Will",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/cd/Iron_Will_ID.png/revision/latest?cb=20150718194119&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Jangles",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1a/Jangles.png/revision/latest?cb=20120803192714&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Jefe Thunderhooves",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5e/Jefe_Thunderhooves.png/revision/latest?cb=20111223012818&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Jeff Letrotski",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/05/Jeff_Letrotski_ID.png/revision/latest?cb=20150719014436&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Jesús Pezuña",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/3e/Jesus_S2E05.png/revision/latest?cb=20130302232601&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Jet Set y Upper Crust",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/98/Jet_Set.png/revision/latest?cb=20121119021414&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Joe",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/77/Joe.png/revision/latest?cb=20120716232736&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "JuneBug",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/95/JuneBug.png/revision/latest?cb=20130227150454&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Juniper Montage",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/46/Juniper_Montage_ID_EGE2.png/revision/latest?cb=20180415193728&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Kibitz",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ee/Kibitz_cuerpo_entero.png/revision/latest?cb=20210817134846&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "King Longhorn",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/db/King_Longhorn.png/revision/latest?cb=20160124003609&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Kiwi Lollipop y Supernova Zap",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6c/Kiwi_Lollipop_ID_EGSBP.png/revision/latest?cb=20210406162851&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Larry",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/75/IDW_Larry_and_Friends.png/revision/latest?cb=20150719183913&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Las Dazzlings",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/66/Rainbow_Rocks_173.png/revision/latest?cb=20141021000014&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Las Rainbooms",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ab/The_Rainbooms_performing_Get_the_Show_on_the_Road_SS13.png/revision/latest?cb=20170902023500",
+        "gender": "Female"
+    },
+    {
+        "name": "Lavender Lace",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e1/Lavender_Lace_MLP_EG_RR.png/revision/latest?cb=20141117144720&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lemon Hearts",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b9/Lemon_Hearts_ID_S4E19.png/revision/latest?cb=20150718190553&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lemon Zest",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c5/Lemon_Zest_ID_EG3.png/revision/latest?cb=20151211154058&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lickety Split",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/95/Lickety_.jpg/revision/latest?cb=20130128190156&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Lightning Bolt",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/-Lightning_Bolt_id.png/revision/latest?cb=20130226211330&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lightning Dust",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/27/Lightning_Dust_Wonderbolt_Academy.png/revision/latest?cb=20130202031024&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lil Cheese",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6a/9623bd32d4441559cfac80910708c039.png/revision/latest?cb=20211029113007&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Lily Valley",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/51/Lily_Valley13.png/revision/latest?cb=20131110023536&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Limestone Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/ba/Limestone_Pie.png/revision/latest?cb=20151024223914&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Little Strongheart",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/36/LH.png/revision/latest?cb=20130706235211&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Long-Face",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/62/MLP_Anual_2014_Long-Face.png/revision/latest?cb=20150823045559&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Lord Tirek",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f4/Tirek_ID_S4E26.png/revision/latest?cb=20140613054852&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Lucky Clover",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a6/Lucky.png/revision/latest?cb=20120803193219&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Luster Dawn",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b1/Luster_Dawn_T9E26.png/revision/latest?cb=20201125172735&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lyra Heartstrings",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1e/Lyra_about_to_cringe_crop_S02E25.png/revision/latest?cb=20131231145628&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Lyrica Lilac",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/05/Lyrica_Lilac_MLP_LMDLA.png/revision/latest?cb=20141227213207&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Magdalena",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/62/Magdalena.png/revision/latest?cb=20130120173636&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Mage Meadowbrook",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/df/Mage_Meadowbrook_ID_S7E20.png/revision/latest?cb=20170924235649",
+        "gender": "Female"
+    },
+    {
+        "name": "Mamá de la Abuela Smith",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a9/Madre_de_Granny_Smith.jpg/revision/latest?cb=20130502004840&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "MandoPony",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a3/MandoPony_ID_S4E24.png/revision/latest?cb=20140621022840&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Mantícora",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9d/Manticora.jpg/revision/latest?cb=20111226214953&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Marble Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d7/Marble_Pie.png/revision/latest?cb=20151024223851&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Mark Twinklecookie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4d/Mark.png/revision/latest?cb=20140103162600&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Marmalade Jalapeno Poppette",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/14/Marmalade_Jalapeno_Popette.png/revision/latest?cb=20130120014626&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Matilda",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b5/Matilda.jpg/revision/latest?cb=20130211235641&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Maud Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/63/Maud_Pie_ID.png/revision/latest?cb=20170903143002&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Maud Pie (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b5/Maud_Pie_ID_EGDS1.png/revision/latest?cb=20180419190742",
+        "gender": "Female"
+    },
+    {
+        "name": "Meadow Song",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b6/Meadow_Song_S1E21.png/revision/latest?cb=20130815054943&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Melen-iaca",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7e/La_Mane_iac_ID.png/revision/latest?cb=20140613002953&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Merry May",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d2/Merry_May_id_2.png/revision/latest?cb=20120719032546&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Micro Chips",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Micro_Chips_ID_EG.png/revision/latest?cb=20130727075055",
+        "gender": "Male"
+    },
+    {
+        "name": "Midnight Fun",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ed/Midnight_Fun.png/revision/latest?cb=20140404022410&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Midnight Strike",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b5/Midnight_Strike_id_S03E07.png/revision/latest?cb=20130526020908&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Milky Way",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6c/White_telescope_pegasus_stallion_s02e22.png/revision/latest?cb=20130122153631&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Millie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/04/Millie.png/revision/latest?cb=20130119224610&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Minty",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/14/Minty_Terrestre_ID.png/revision/latest?cb=20150721181319&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Minuette",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b6/Minuette_id.png/revision/latest?cb=20120620202726&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Mistmane",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2e/Mistmane_ID_S7E16.png/revision/latest?cb=20170829034934",
+        "gender": "Female"
+    },
+    {
+        "name": "Misty Fly",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/56/Misty_Fly_ID_T1E26.png/revision/latest?cb=20150721150102&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Monochrome Sunset",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a7/Grey.png/revision/latest?cb=20130729020036&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Moon Dancer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e9/Moon_Dancer_ID_T5E12.png/revision/latest?cb=20150705133851&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Moonlight Raven",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/73/Moonlight_Raven.png/revision/latest?cb=20160524185400&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Mulia Mild",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/94/Mulia_Mild.jpg/revision/latest?cb=20121013020532&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Murciélagos de fruta",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7b/Murcielagos.png/revision/latest?cb=20121223203710&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Mystery Mint",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2a/Unnamed_Girl_13_ID_EG.png/revision/latest?cb=20141112215620&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Nana Knits",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ea/Old_Pegasus_pony_with_a_yarn_cutie_mark_S1E16.png/revision/latest?cb=20130202014301&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Neon Lights",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/92/Neon_Lights.png/revision/latest?cb=20140413024659&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Night Glider",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/10/Night_Glider_ID_T5E2.png/revision/latest?cb=20150405223700&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Night Light",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6a/200xp-Crescent_Sparkle.png/revision/latest?cb=20140618005043&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Nightmare Rarity (Personaje)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b8/025.jpg/revision/latest?cb=20131012195412&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Noi",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/66/Noi%21.png/revision/latest?cb=20131111000921&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Noteworthy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/cc/Noteworthy.jpg/revision/latest?cb=20120323190447&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Ocellus",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9b/Ocellus_ID_S8E1.png/revision/latest?cb=20180329011609",
+        "gender": "Female"
+    },
+    {
+        "name": "Octavia Melody",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d7/Octavia_id.png/revision/latest?cb=20111121205112&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Opal Bloom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1c/Crystal_Empire_filly_with_bow_s03e01.png/revision/latest?cb=20130630011606&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Opalescence",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1d/Opal_siendio_Opal.png/revision/latest?cb=20130316050811&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Orange Box",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/ff/Orangebox.png/revision/latest?cb=20140110064527&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Orange Wafer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5e/Orange_Wafer.png/revision/latest?cb=20120225213217&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Osa Menor",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/74/La_Osa_Menor.png/revision/latest?cb=20111226224459&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Papá de la Abuela Smith",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/96/Ggrf.png/revision/latest?cb=20130129170921&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Parasol",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/90/Parasol.png/revision/latest?cb=20120316181726&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Parasprites",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4f/Parasprites.jpg/revision/latest?cb=20111226220624&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Party Favor",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/ce/Party_Favor_ID_S5E2.png/revision/latest?cb=20150405211424&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Peachy Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d9/PeachyPie.png/revision/latest?cb=20120229122722&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Peachy Sweet",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/64/Peachy_Sweet.png/revision/latest?cb=20130120014722&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Peewee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ab/Peewee_ID_S8E11.png/revision/latest?cb=20180529210039",
+        "gender": "Male"
+    },
+    {
+        "name": "Pharynx",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2b/Metamorphosed_Pharynx_ID_S7E17.png/revision/latest?cb=20170904051337",
+        "gender": "Male"
+    },
+    {
+        "name": "Philomena",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f6/Philomena_by_moongazeponies-d45nn15.png/revision/latest?cb=20130327004124&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Photo Finish",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Photo_Finish_2.png/revision/latest?cb=20140419005542&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pink Lady",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Yellow_coat_pink_mane_S1E20.png/revision/latest?cb=20130118002423&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pinkie Feather",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/af/Pinkie._Feat.png/revision/latest?cb=20140223062745&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pinkie Pie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/42/PinkiePie.png/revision/latest?cb=20140611235315&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pinkie Pie (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6a/Pinkie_Pie_ID_EGDS.png/revision/latest?cb=20180316034500",
+        "gender": "Female"
+    },
+    {
+        "name": "Pipsqueak",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/85/PipsqueakID.png/revision/latest?cb=20140319225701&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Pixel Pizzaz",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b0/Pixel_Pizzaz_MLP_EG_RR.png/revision/latest?cb=20141115153215&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Piña Colada",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/15/310px-Pi%C3%B1a_Colada.png/revision/latest?cb=20120519062040&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Pound Cake",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7a/Pound_Cake_smiling_S2E13.png/revision/latest?cb=20120118000437&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Powder Rouge",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/05/Powder_Rouge_ID_S1E20.png/revision/latest?cb=20131116202336&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Prairie Tune",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/eb/Prairie_Tuner.png/revision/latest?cb=20130521144441&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Prim Hemline",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b5/Prim_Hemline_ID_S4E08.png/revision/latest?cb=20140107202341&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Amore",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/75/Princess_Amore.png/revision/latest?cb=20150718221934&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Cadance",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/72/Princess_Cadance_id_S3E12.png/revision/latest?cb=20130918000818&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Celestia",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/03/411px-Princess_Celestia_ID_S4E01.png/revision/latest?cb=20140611215244&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Erroria",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/37/PrincesaErroriaViruelaCutie.png/revision/latest?cb=20140418025502&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Luna",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b2/Twilight_Escribiendo_T01EP5.png/revision/latest?cb=20140121015334&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Princesa Skystar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/77/Princess_Skystar_ID_MLPTM.png/revision/latest?cb=20230424225301",
+        "gender": "Female"
+    },
+    {
+        "name": "Príncipe Blueblood",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d7/Principe_blue_blood.png/revision/latest?cb=20121204012501&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Príncipe Rutherford",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/48/Pr%C3%ADncipe_Rutherford.png/revision/latest?cb=20160208041729&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Pumpkin Cake",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a4/Pumpking_cake.jpg/revision/latest?cb=20130203165956&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Quarray Eel",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/70/Quarray_eels_S2E07_thumb.png/revision/latest?cb=20120725044723&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Quibble Pants",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/68/Quibble_Pants_ID_T6E13.png/revision/latest?cb=20160817144500&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Quicksilver",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/ff/S3E12_Crystal_earth_mare_messenger.png/revision/latest?cb=20130504132930&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Radiant Hope",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/76/Comic_issue_34_Radiant_Hope.png/revision/latest?cb=20160225045419&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rainbow Blaze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6e/RainbowFather15.jpg/revision/latest?cb=20140330212623&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rainbow Dash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/60/Rainbow_Dash_ID_T3E7.png/revision/latest?cb=20150302214756&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rainbow Dash (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1e/Rainbow_Dash_ID_EGDS2.png/revision/latest?cb=20171106005353",
+        "gender": "Female"
+    },
+    {
+        "name": "Rainbow Shine",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/23/Rainbowshine.png/revision/latest?cb=20120718231056&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rarity",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ee/Rarity_sparkling_S1E20.png/revision/latest?cb=20130821222505&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rarity (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7a/Rarity_ID_EGDS2.png/revision/latest?cb=20171106005403",
+        "gender": "Female"
+    },
+    {
+        "name": "Raven",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/53/Raven_2.png/revision/latest?cb=20150302223804&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rector Neighsay",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1a/Chancellor_Neighsay_ID_S8E2.png/revision/latest?cb=20180325123334",
+        "gender": "Male"
+    },
+    {
+        "name": "Red Delicious",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/51/Red_Delicious.png/revision/latest?cb=20111221181621&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Red Gala",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/35/Red_Gala_13.png/revision/latest?cb=20140330000332&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Red Rose",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9b/Red_Rose_ID_S1E14.png/revision/latest?cb=20150504225252&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Reina Chrysalis",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4b/ReinaCrhysalisenlaboda.png/revision/latest?cb=20140421014220&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Reina de Trottingham",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/15/Comic_issue_15_Queen_Trottingham.png/revision/latest?cb=20150726200335&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Reina Novo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f9/Queen_Novo_ID_MLPTM.png/revision/latest?cb=20171016211949",
+        "gender": "Female"
+    },
+    {
+        "name": "Rey Sombra",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7b/King_Sombra_ID_S9E2.png/revision/latest?cb=20190411072142",
+        "gender": "Male"
+    },
+    {
+        "name": "Rey Tormenta",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/73/The_Storm_King_ID_MLPTM.png/revision/latest?cb=20171017010720",
+        "gender": "Male"
+    },
+    {
+        "name": "Ringo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c7/Ringo_MLP_EG.png/revision/latest?cb=20141130232310&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rockhoof",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0f/Rockhoof_ID_S7E16.png/revision/latest?cb=20170828234747",
+        "gender": "Male"
+    },
+    {
+        "name": "Romana",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/86/Romana.png/revision/latest?cb=20120915011731&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rose",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9a/Rose_2.png/revision/latest?cb=20140415205618&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Rough Diamond",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/86/Officer_Fluffles.png/revision/latest?cb=20150731192349&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Royal Blue",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ea/Royal_Blue.png/revision/latest?cb=20120229123641&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Royal Pin",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9e/Pokey.png/revision/latest?cb=20120806013002&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Rumble",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/35/Rumble_id_S2E22.png/revision/latest?cb=20140416173009&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sabelotodo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e9/Smarty_Pants.PNG/revision/latest?cb=20120405002812&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sandalwood",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/41/Sandalwood_ID_EG.png/revision/latest?cb=20160216232522&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sandbar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8d/Sandbar_ID_S8E2.png/revision/latest?cb=20180328212530",
+        "gender": "Male"
+    },
+    {
+        "name": "Sapphire Shores",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f5/250px-Sapphire_Shores_PageID.png/revision/latest?cb=20111120194944&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sassaflash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8d/Sassaflash_1.png/revision/latest?cb=20131106151942&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sassy Saddles",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c4/Sassy_Saddles_T5E14.png/revision/latest?cb=20150920024656&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Scootaloo",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/92/Scootaloo_ID_S5E18.png/revision/latest?cb=20160116235122&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Scorpan",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/89/Scorpan_ID.png/revision/latest?cb=20140511223346&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Screw Loose",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/24/Sfgt.jpg/revision/latest?cb=20130324204756&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Screwball",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0d/Screwball.png/revision/latest?cb=20140506231926&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sea Swirl",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/be/Sea_Swirl_ID_T02EP15.png/revision/latest?cb=20120711034721&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Seabreeze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a2/Seabree.png/revision/latest?cb=20140306170540&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Señor Greenhooves",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e0/Hayseed.jpg/revision/latest?cb=20111228201608&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Señor Waddle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/84/Sr_waddle.png/revision/latest?cb=20130626162412&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Shadowbolts",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0d/The_Shadowbolts.png/revision/latest?cb=20150928131005&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Shadowbolts (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6b/Let%27s_go%2C_Shadowbolts%21_%28new_version%29_EG3.png/revision/latest?cb=20151030234621",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Shady Daze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5e/Shady_Daze.png/revision/latest?cb=20120716171622&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Shining Armor",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Shining_Armor_ID_S5E19.png/revision/latest?cb=20160614205411&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Shiny Disco",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/Dazzling.jpg/revision/latest?cb=20120823220353&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Shoeshine",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/32/Shoesshine.png/revision/latest?cb=20120204013230&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Shortround",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2a/Too_Short_pony.png/revision/latest?cb=20131001221518&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Silver Shill",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d8/Silver_Shill_ID.png/revision/latest?cb=20140331223034&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Silver Spoon",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/79/MLP_LMDLA_Silver_Spoon_T4E15.png/revision/latest?cb=20150216202230&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Silverspeed",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Silverspeed_s02e22.png/revision/latest?cb=20130708004358&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Silverstream",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/45/Silverstream_ID_S8E1.png/revision/latest?cb=20180329021441",
+        "gender": "Female"
+    },
+    {
+        "name": "Sky Beak y Ocean Flow",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/21/Sky_Beak.png/revision/latest?cb=20200106010823&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sky Stinger",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/60/Sky_Stinger_ID_S6E24.png/revision/latest?cb=20170521043036&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Skyra",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f3/Sky_Lyre.png/revision/latest?cb=20130525015127&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Smolder",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/de/Smolder_ID_S8E1.png/revision/latest?cb=20180328233518",
+        "gender": "Female"
+    },
+    {
+        "name": "Snails",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/71/Snails.jpg/revision/latest?cb=20111119232518&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Snap Shutter y Mane Allgood",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/8f/Snap_Shutter.png/revision/latest?cb=20201121233529&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Snappy Scoop",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f3/Snappyscoop.png/revision/latest?cb=20130104215256&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Snips",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/P119.png/revision/latest?cb=20130420005620&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Soarin",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/S4E10I277.png/revision/latest?cb=20140118230042&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Soigne Folio",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bb/Soigne_Folio.png/revision/latest?cb=20140114032316&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Somnambula",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/70/Somnambula_ID_S7E18.png/revision/latest?cb=20170906171133",
+        "gender": "Female"
+    },
+    {
+        "name": "Sonata Dusk",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/62/Sonata_Dusk_MLP_EG_RR.png/revision/latest?cb=20170926194625&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Songbird Serenade",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/31/Songbird_Serenade_ID_MLPTM.png/revision/latest?cb=20171013144042",
+        "gender": "Female"
+    },
+    {
+        "name": "Sour Sweet",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/99/Sour_Sweet_ID_EG3.png/revision/latest?cb=20151210154524&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Spike",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/87/Spike_ID_S8E11.png/revision/latest?cb=20180526160714",
+        "gender": "Male"
+    },
+    {
+        "name": "Spike (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f3/Spike_the_Dog_ID_EG3.png/revision/latest?cb=20160617223136",
+        "gender": "Male"
+    },
+    {
+        "name": "Spitfire",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/70/Spitfire_id.png/revision/latest?cb=20111009184127&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Spoiled Rich",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/14/Spoiled_Rich_IDS5E18.png/revision/latest?cb=20160115052825&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sprinkle Medley",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/41/Medleywwu.png/revision/latest?cb=20121228204607&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sr. y Sra. Cake",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/50/Mrs._Cake.png/revision/latest?cb=20140604203128&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sr. y Sra. Shy",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/48/Mr._Shy_ID_T6E11.png/revision/latest?cb=20160614033926&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sra. Harshwhinny",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/92/Ms._Harshwhinny_id_S3E12.png/revision/latest?cb=20130501120135&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sra. Peachbottom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/fb/Ms._Peachbottom-S3E12.png/revision/latest?cb=20130519214937&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Star Hunter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/77/Star_Hunter.png/revision/latest?cb=20121226224323&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Star Swirl El Barbado",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/76/Star_Swirl_the_Bearded_ID_S7E26.png/revision/latest?cb=20171012212227",
+        "gender": "Male"
+    },
+    {
+        "name": "Stardancer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/31/Stardancer.png/revision/latest?cb=20130508005903&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Starlight Glimmer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b1/Starlight_Glimmer_ID_T6E2.png/revision/latest?cb=20160329011954&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Stella",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f6/Stella%2CPF.png/revision/latest?cb=20140118204956&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Stellar Eclipse",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a4/Stellar_Eclipse.png/revision/latest?cb=20140601215127&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Steven Magnet",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ac/Serpiente_Marina.JPG/revision/latest?cb=20111224031104&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Stormy Flare",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f2/Stormy_Flare_ID_S5E15.png/revision/latest?cb=20160130181626&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Stygian",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/74/Stygian_ID_S7E26.png/revision/latest?cb=20171012213100",
+        "gender": "Male"
+    },
+    {
+        "name": "Subdirectora Luna",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/c1/Vice_Principal_Luna_human_ID_EG2.png/revision/latest?cb=20141222002813",
+        "gender": "Female"
+    },
+    {
+        "name": "Sugar Apple",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ac/APPLESUGAR.jpg/revision/latest?cb=20131011175658&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sugar Belle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d6/Sugar_Belle_ID_T5E2.png/revision/latest?cb=20150405203239&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sugar Grape",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/66/Sugar_Grape_ID.png/revision/latest?cb=20150721190624&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sugarcoat",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Sugarcoat_ID_EG3.png/revision/latest?cb=20151211034633&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sun Glimmer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2d/Sun_Glimmer.png/revision/latest?cb=20120229124453&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sunburst",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/db/Sunburst_ID.png/revision/latest?cb=20160330175438&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sunny Daze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/89/Sunny_Daze.png/revision/latest?cb=20120229125546&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sunny Flare",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2b/Sunny_Flare_ID_EG3.png/revision/latest?cb=20170924001500&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sunny Skies",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/63/Sunny_skies-fullview.png/revision/latest?cb=20200718221852&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sunset Shimmer",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ab/Sunset_Shimmer_ID_EGDS2.png/revision/latest?cb=20171106005307",
+        "gender": "Female"
+    },
+    {
+        "name": "Sunshine Splash",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5d/Sunshine_Splash_Crystal.png/revision/latest?cb=20131229023115&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sunshower Raindrops",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b3/Sunshower_Raindrops.png/revision/latest?cb=20140417151928&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Suri Polomare",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/32/Suri_Polomare_ID_S4E08.png/revision/latest?cb=20140104231409&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Surprise",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Screenshot_44.png/revision/latest?cb=20130902031715&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Svengallop",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6c/Svengallop_ID_T5E24.png/revision/latest?cb=20151122154700&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Sweet Pop",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Sweet_Pop.png/revision/latest?cb=20120229130227&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sweet Tooth",
+        "image": "https://static.wikia.nocookie.net/mlp/images/8/81/Pink_and_green_Apple_cousin_s03e08.png/revision/latest?cb=20130731005228&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sweetcream Scoops",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0d/Sweetcream_Scoops_id.jpg/revision/latest?cb=20150719054126&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sweetie Belle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ec/Sweetie_Belle_ID_S5E18.png/revision/latest?cb=20160116232702&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Sweetie Drops",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/21/Sweetie_Drops_ID_S5E9.png/revision/latest?cb=20150717190855&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tantabus",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e6/Tantabus_ID_S5E13.png/revision/latest?cb=20160121011414&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Tart Cranberries",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f4/150px-UEM3_ID_S4E08.png/revision/latest?cb=20140223222247&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tealove",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/f9/Tealove_id.png/revision/latest?cb=20140718183210",
+        "gender": "Female"
+    },
+    {
+        "name": "Teddie Safari",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Teddie_Safari_ID_S4E22.png/revision/latest?cb=20150718234929&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tempestad",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e5/Tempest_Shadow_ID_MLPTM.png/revision/latest?cb=20171013211531",
+        "gender": "Female"
+    },
+    {
+        "name": "Tender Taps",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Tender_Taps_ID.png/revision/latest?cb=20160417235850&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Tennis Match",
+        "image": "https://static.wikia.nocookie.net/mlp/images/7/7b/Rain_EG.png/revision/latest?cb=20140417151739&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Terramar",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/3f/Terramar.png/revision/latest?cb=20201120142139&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Thorax",
+        "image": "https://static.wikia.nocookie.net/mlp/images/c/ca/Thorax_nueva_forma_ID_T6E26.png/revision/latest?cb=20161231175350&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Thunderlane",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/18/Thunderlane.png/revision/latest?cb=20120718044825&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Timber Spruce",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/09/Timber_Spruce_ID.png/revision/latest?cb=20180415193038&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Toffee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/29/Toffee.png/revision/latest?cb=20130612005722&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tom",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9c/Tom.jpg/revision/latest?cb=20121222023707&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Toola Roola y Coconut Cream",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/96/Toola_Roola.png/revision/latest?cb=20210414141219&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tootsie Flute",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1b/Tootsie_Flute1.png/revision/latest?cb=20130227020040&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tornado Bolt",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/63/Tornado_Bolt1.png/revision/latest?cb=20120720025847&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Treasure",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/0c/Treasure_S02E13.png/revision/latest?cb=20140301233505&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tree Hugger",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/ad/Tree_Hugger_ID_T5E7.png/revision/latest?cb=20150516234048&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Trenderhoof",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/ea/Trender_2.jpg/revision/latest?cb=20140211230450&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Trixie",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6d/The_Great_and_Powerful_Trixie_id2.png/revision/latest?cb=20150216022703&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Trixie (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/98/Trixie_ID_EG2.png/revision/latest?cb=20180326212122&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Trouble Shoes",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bd/Trouble_Shoes_ID_S5E6.png/revision/latest?cb=20150502213313&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Twilight Sparkle",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/bc/Princess_Twilight_Sparkle_ID_S4E26.png/revision/latest?cb=20220306181401",
+        "gender": "Female"
+    },
+    {
+        "name": "Twilight Sparkle (EG)",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d2/Twilight_Sparkle_ID_EGDS5.png/revision/latest?cb=20171106005251",
+        "gender": "Female"
+    },
+    {
+        "name": "Twilight Velvet",
+        "image": "https://static.wikia.nocookie.net/mlp/images/4/4b/Twilight_Velvet_id_S1E23.png/revision/latest?cb=20150705173339&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Twinkleshine",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/52/Twinkleshine_ID_S2E15.png/revision/latest?cb=20150717213837&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Twist",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/67/Twist_ID.png/revision/latest?cb=20120206005234&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Twittermitas",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b4/Enjambre_de_Twittermitas_Un_Descanso_Agotador.png/revision/latest?cb=20160123221759&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Tía Orange",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6f/Aunt_Orange.png/revision/latest?cb=20130103201824&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Tío Orange",
+        "image": "https://static.wikia.nocookie.net/mlp/images/a/a0/Uncle_Orange.png/revision/latest?cb=20111221191118&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Vapor Trail",
+        "image": "https://static.wikia.nocookie.net/mlp/images/9/9e/Vapor_Trail_ID_S6E24.png/revision/latest?cb=20170521043054&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Velvet Sky",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/56/Velvet_Sky_EG.png/revision/latest?cb=20141120180435&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Vignette Valencia",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/52/Vignette_Valencia_ID_EGMRDLA.png/revision/latest?cb=20180929233344&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Violet Blurr",
+        "image": "https://static.wikia.nocookie.net/mlp/images/3/3f/Violet_Blurr_MLP_EG_RR.png/revision/latest?cb=20141115154533&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Violet Fritter",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/59/Violet.jpg/revision/latest?cb=20130126182753&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Wallflower Blush",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e4/Wallflower_Blush_ID_EGFF.png/revision/latest?cb=20181028073826",
+        "gender": "Female"
+    },
+    {
+        "name": "Water Melody",
+        "image": "https://static.wikia.nocookie.net/mlp/images/6/6d/Water_Melody.png/revision/latest?cb=20141107195150&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Well-to-Do",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/2e/Comic_issue_27_Well-to-Do.png/revision/latest?cb=20160129063026&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Wild Fire",
+        "image": "https://static.wikia.nocookie.net/mlp/images/f/fc/Wild_Fire.png/revision/latest?cb=20130504153611&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Wildwood Flower",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/50/Happy_cowpony_S02E14.png/revision/latest?cb=20130501022841&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Wilma",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/14/Old_yellow_Earth_mare_at_wedding_s02e26.png/revision/latest?cb=20130703230740&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Wind Rider",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1d/Wind_Rider_ID.png/revision/latest?cb=20160614230419&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Windigos",
+        "image": "https://static.wikia.nocookie.net/mlp/images/d/d6/Windigo.png/revision/latest?cb=20130222225145&path-prefix=es",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Winter Withers",
+        "image": "https://static.wikia.nocookie.net/mlp/images/b/b6/Winter_Withers1.png/revision/latest?cb=20130511011150&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Written Script",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/20/WS.png/revision/latest?cb=20130818202108&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Yona",
+        "image": "https://static.wikia.nocookie.net/mlp/images/2/22/Yona_ID_S8E2.png/revision/latest?cb=20180329000918",
+        "gender": "Female"
+    },
+    {
+        "name": "Yooess Dee",
+        "image": "https://static.wikia.nocookie.net/mlp/images/5/5a/Yooess_Dee.png/revision/latest?cb=20120225125544&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Zecora",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/eb/250px-Newzecoraidep6se2.png/revision/latest?cb=20111120202953&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Zephyr Breeze",
+        "image": "https://static.wikia.nocookie.net/mlp/images/e/e0/Zephyr_Breeze_ID_T6E11.png/revision/latest?cb=20160614033930&path-prefix=es",
+        "gender": "Male"
+    },
+    {
+        "name": "Zesty Gourmand",
+        "image": "https://static.wikia.nocookie.net/mlp/images/0/09/Zesty_Gourmand_ID_T6E12.png/revision/latest?cb=20160803165347&path-prefix=es",
+        "gender": "Female"
+    },
+    {
+        "name": "Zipporwhill",
+        "image": "https://static.wikia.nocookie.net/mlp/images/1/1e/Zipporwhill_ID_S4E14.png/revision/latest?cb=20150718203058&path-prefix=es",
+        "gender": "Female"
+    }
+]

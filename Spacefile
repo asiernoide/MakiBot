@@ -1,0 +1,22 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+icon: ./icon.png
+app_name: "MakiBot"
+micros:
+  - name: MakiBot
+    src: .
+    engine: python3.9
+    presets:
+      env:
+        - name: APPLICATION_ID
+          description: Your discord application id
+        - name: APPLICATION_TOKEN
+          description: Your discord application token
+        - name: APPLICATION_PUBLIC_KEY
+          description: Your discord application public key
+        - name: MONGODB_URI
+          description: Your mongodb uri
+        - name: MONGODB_DBNAME
+          description: Your mongodb database name
+    public_routes:
+      - "/interactions"

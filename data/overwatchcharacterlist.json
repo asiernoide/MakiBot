@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Ana",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Ana.png/revision/latest?cb=20160715094551",
+        "gender": "Female"
+    },
+    {
+        "name": "Ashe",
+        "image": "https://www.pngitem.com/pimgs/m/272-2728705_ashe-portrait2-ashe-overwatch-full-body-hd-png.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Baptiste",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/OW2_Baptiste.png/revision/latest?cb=20230404224848",
+        "gender": "Male"
+    },
+    {
+        "name": "Bastion",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/OW2-Bastion.png/revision/latest?cb=20230216092724",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Brigitte",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/OW2_Brigitte.png/revision/latest?cb=20220930191642",
+        "gender": "Female"
+    },
+    {
+        "name": "Cassidy",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/OW2_McCree.png/revision/latest?cb=20210623082527",
+        "gender": "Male"
+    },
+    {
+        "name": "D.Va",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845",
+        "gender": "Female"
+    },
+    {
+        "name": "Doomfist",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/OW2_Doomfist_render.png/revision/latest?cb=20230323200800",
+        "gender": "Male"
+    },
+    {
+        "name": "Echo",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Echo-portrait.png/revision/latest?cb=20200319191504",
+        "gender": "Female"
+    },
+    {
+        "name": "Genji",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Genji-ow2-portrait.png/revision/latest?cb=20191104043734",
+        "gender": "Male"
+    },
+    {
+        "name": "Hanzo",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/OW2_Hanzo.png/revision/latest?cb=20230404232411",
+        "gender": "Male"
+    },
+    {
+        "name": "Junker Queen",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Junker_Queen-portrait.png/revision/latest?cb=20221114212951",
+        "gender": "Female"
+    },
+    {
+        "name": "Junkrat",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Junkrat-Portrait.png/revision/latest?cb=20160620014456",
+        "gender": "Male"
+    },
+    {
+        "name": "Kiriko",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Kiriko-portrait.png/revision/latest?cb=20221114213127",
+        "gender": "Female"
+    },
+    {
+        "name": "Lifeweaver",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Lifeweaver-portrait.png/revision/latest?cb=20230404181252",
+        "gender": "Male"
+    },
+    {
+        "name": "Lúcio",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Lucio-ow2-portrait.png/revision/latest?cb=20191104073705",
+        "gender": "Male"
+    },
+    {
+        "name": "Mei",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Mei-ow2-portrait.png/revision/latest?cb=20191104081317",
+        "gender": "Female"
+    },
+    {
+        "name": "Mercy",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Mercy-ow2-portrait.png/revision/latest?cb=20191104213936",
+        "gender": "Female"
+    },
+    {
+        "name": "Moira",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Moira.png/revision/latest?cb=20171104021652",
+        "gender": "Female"
+    },
+    {
+        "name": "Orisa",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/OW2_Orisa.png/revision/latest?cb=20230123051457",
+        "gender": "Female"
+    },
+    {
+        "name": "Pharah",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/OW2_Pharah.png/revision/latest?cb=20210623082353",
+        "gender": "Female"
+    },
+    {
+        "name": "Ramattra",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ramattra-portrait.png/revision/latest?cb=20221114213307",
+        "gender": "Male"
+    },
+    {
+        "name": "Reaper",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/OW2_Reaper.png/revision/latest?cb=20230501183151",
+        "gender": "Male"
+    },
+    {
+        "name": "Reinhardt",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Reinhardt-ow2-portrait.png/revision/latest?cb=20191104214011",
+        "gender": "Male"
+    },
+    {
+        "name": "Roadhog",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Roadhog-Portrait.png/revision/latest?cb=20160620014755",
+        "gender": "Male"
+    },
+    {
+        "name": "Sigma",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Sigma.png/revision/latest?cb=20190724005755",
+        "gender": "Male"
+    },
+    {
+        "name": "Sojourn",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Sojourn-portrait.png/revision/latest?cb=20221114212840",
+        "gender": "Female"
+    },
+    {
+        "name": "Soldier: 76",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/S76_Skin_Overwatch_2.png/revision/latest?cb=20221218232247",
+        "gender": "Male"
+    },
+    {
+        "name": "Sombra",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Sombra.png/revision/latest?cb=20210623082827",
+        "gender": "Female"
+    },
+    {
+        "name": "Symmetra",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/OW2_Symmetra.png/revision/latest?cb=20230124004649",
+        "gender": "Female"
+    },
+    {
+        "name": "Torbjörn",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Torbj%C3%B6rn-ow2-portrait.png/revision/latest?cb=20210623082654",
+        "gender": "Male"
+    },
+    {
+        "name": "Tracer",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Tracer_ow2_portrait.png/revision/latest?cb=20220625025656",
+        "gender": "Female"
+    },
+    {
+        "name": "Widowmaker",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/OW2_Widowmaker.png/revision/latest/scale-to-width-down/1000?cb=20210623082021",
+        "gender": "Female"
+    },
+    {
+        "name": "Winston",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Winston-ow2-portrait.png/revision/latest?cb=20191104221341",
+        "gender": "Male"
+    },
+    {
+        "name": "Wrecking Ball",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/OW2_Wrecking_Ball.png/revision/latest?cb=20230404234216",
+        "gender": "Male"
+    },
+    {
+        "name": "Zarya",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Zarya-portrait.png/revision/latest?cb=20160620015842",
+        "gender": "Female"
+    },
+    {
+        "name": "Zenyatta",
+        "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Zenyatta-portrait.png/revision/latest?cb=20160620015935",
+        "gender": "Male"
+    }
+]

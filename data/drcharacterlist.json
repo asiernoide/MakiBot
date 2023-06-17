@@ -1,0 +1,617 @@
+[
+    {
+        "name": "Akane Owari",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/0e/Akane_Owari_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170530084146",
+        "gender": "Female"
+    },
+    {
+        "name": "Aloysius Pennyworth",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/4b/Aloysius_Pennyworth_Hit_List_Photo.png/revision/latest?cb=20180915041741",
+        "gender": "Male"
+    },
+    {
+        "name": "Alter Ego Junko",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/83/Danganronpa_2_CG_-_AI_Junko_Enoshima_appearing_%289%29.png/revision/latest/scale-to-width-down/350?cb=20200323092540",
+        "gender": "Female"
+    },
+    {
+        "name": "Angie Yonaga",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d9/Angie_Yonaga_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185338",
+        "gender": "Female"
+    },
+    {
+        "name": "Aoi Asahina",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/67/Aoi_Asahina_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210508173134",
+        "gender": "Female"
+    },
+    {
+        "name": "Ayaka Haneyama",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/77/Ayaka_Haneyama.png/revision/latest?cb=20170529045138",
+        "gender": "Female"
+    },
+    {
+        "name": "Byakuya Togami",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/58/Byakuya_Togami_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170611004044",
+        "gender": "Male"
+    },
+    {
+        "name": "Celestia Ludenberg",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/66/Celestia_Ludenberg_Illustration.png/revision/latest/scale-to-width-down/350?cb=20220810001247",
+        "gender": "Female"
+    },
+    {
+        "name": "Chiaki Nanami (Danganronpa 2)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/a0/Chiaki_Nanami_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170706030737",
+        "gender": "Female"
+    },
+    {
+        "name": "Chiaki Nanami (Danganronpa 3)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/88/Danganronpa_3_-_Chiaki_Nanami_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830113312",
+        "gender": "Female"
+    },
+    {
+        "name": "Chihiro Fujisaki",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7e/Chihiro_Fujisaki_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170827162806",
+        "gender": "Male"
+    },
+    {
+        "name": "Chisa Yukizome",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/e8/Danganronpa_3_-_Chisa_Yukizome_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144353",
+        "gender": "Female"
+    },
+    {
+        "name": "Chusuke Oyama",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/54/Chuusuke_Ooyama.png/revision/latest?cb=20160916101519",
+        "gender": "Male"
+    },
+    {
+        "name": "Daisaku Bandai",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/9f/Danganronpa_3_-_Daisaku_Bandai_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144355",
+        "gender": "Male"
+    },
+    {
+        "name": "Eiichirō Saiyama",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/19/Danganronpa_Killer_Killer_Eiichiro_Saiyama_Sidebar.png/revision/latest/scale-to-width-down/318?cb=20170514232915",
+        "gender": "Male"
+    },
+    {
+        "name": "Fuhito Kirigiri",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/92/Fuhito_Kirigiri.png/revision/latest?cb=20170506041254",
+        "gender": "Male"
+    },
+    {
+        "name": "Fuyuhiko Kuzuryu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3f/Fuyuhiko_Kuzuryu_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170704214532",
+        "gender": "Male"
+    },
+    {
+        "name": "Fuyuhiko Kuzuryu (Illusion)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/ab/Danganronpa_3_-_Fuyuhiko_Kuzuryu_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830113314",
+        "gender": "Male"
+    },
+    {
+        "name": "Genocide Jack",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/4f/Genocide_Jack_Genocider_Syo_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170605013126",
+        "gender": "Female"
+    },
+    {
+        "name": "Gonta Gokuhara",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/ed/Gonta_Gokuhara_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185536",
+        "gender": "Male"
+    },
+    {
+        "name": "Great Gozu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/8f/Danganronpa_3_-_Great_Gozu_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144357",
+        "gender": "Male"
+    },
+    {
+        "name": "Gundham Tanaka",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/84/Danganronpa_2_Character_Illustration_-_Gundham_Tanaka.png/revision/latest/scale-to-width-down/350?cb=20200822035211",
+        "gender": "Male"
+    },
+    {
+        "name": "Haiji Towa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7e/Danganronpa_Another_Episode_-_Haiji_Towa_Model_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830134917",
+        "gender": "Male"
+    },
+    {
+        "name": "Hajime Hinata",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/f/f3/Hajime_Hinata_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170608041605",
+        "gender": "Male"
+    },
+    {
+        "name": "Hifumi Yamada",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/07/Hifumi_Yamada_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170605023117",
+        "gender": "Male"
+    },
+    {
+        "name": "Himiko Yumeno",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/9d/Himiko_Yumeno_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185435",
+        "gender": "Female"
+    },
+    {
+        "name": "Hiroko Hagakure",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/ac/Hiroko_Hagakure_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205230032",
+        "gender": "Female"
+    },
+    {
+        "name": "Hiyoko Saionji",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/44/Hiyoko_Saionji_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170721042144",
+        "gender": "Female"
+    },
+    {
+        "name": "Ibuki Mioda",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/6d/Ibuki_Mioda_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170706000915",
+        "gender": "Female"
+    },
+    {
+        "name": "Ikue Dōgami",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/55/Ikue_Dogami_Sidebar.png/revision/latest/scale-to-width-down/274?cb=20161015194058",
+        "gender": "Female"
+    },
+    {
+        "name": "Izuru Kamukura",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/0d/Danganronpa_S_Izuru_Kamukura_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205220619",
+        "gender": "Male"
+    },
+    {
+        "name": "Jataro Kemuri",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/31/Jataro_Kemuri_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205222700",
+        "gender": "Male"
+    },
+    {
+        "name": "Jin Kirigiri",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Jin_Kirigiri_Illustration_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20220405232417",
+        "gender": "Male"
+    },
+    {
+        "name": "Junko Enoshima",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/5e/Junko_Enoshima_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170529225243",
+        "gender": "Female"
+    },
+    {
+        "name": "Junko Enoshima (Danganronpa 1)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/67/Mukuro_Ikusaba_Disguise_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170604210827",
+        "gender": "Female"
+    },
+    {
+        "name": "Juzo Sakakura",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/72/Danganronpa_3_-_Juzo_Sakakura_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144401",
+        "gender": "Male"
+    },
+    {
+        "name": "K1-B0",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/be/K1-B0_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180416200220",
+        "gender": "Male"
+    },
+    {
+        "name": "Kaede Akamatsu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170429155934",
+        "gender": "Female"
+    },
+    {
+        "name": "Kaito Momota",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/8a/Kaito_Momota_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185637",
+        "gender": "Male"
+    },
+    {
+        "name": "Kanon Nakajima",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/a2/Danganronpa_Another_Episode_-_Kanon_Nakajima_Sidebar.png/revision/latest/scale-to-width-down/194?cb=20190408211955",
+        "gender": "Female"
+    },
+    {
+        "name": "Kazuichi Soda",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/56/Kazuichi_Soda_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170724182621",
+        "gender": "Male"
+    },
+    {
+        "name": "Kazuichi Soda (Illusion)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/ba/Danganronpa_3_-_Kazuichi_Soda_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830113326",
+        "gender": "Male"
+    },
+    {
+        "name": "Kazuo Tengan",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/aa/Danganronpa_3_-_Kazuo_Tengan_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144405",
+        "gender": "Male"
+    },
+    {
+        "name": "Kenji Tsuruhashi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3d/Kenjiprofile.png/revision/latest?cb=20160722125506",
+        "gender": "Male"
+    },
+    {
+        "name": "Kenshiro",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/5f/Kenshiro_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170724202304",
+        "gender": "Male"
+    },
+    {
+        "name": "Kinari Kunugida",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b6/Kinari_Kunugida.png/revision/latest?cb=20160916092350",
+        "gender": "Female"
+    },
+    {
+        "name": "Kirumi Tojo",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/71/Kirumi_Tojo_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185620",
+        "gender": "Female"
+    },
+    {
+        "name": "Kiyotaka Ishimaru",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d6/Kiyotaka_Ishimaru_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170611020822",
+        "gender": "Male"
+    },
+    {
+        "name": "Koichi Kizakura",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/f/f9/Danganronpa_3_-_Koichi_Kizakura_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144408",
+        "gender": "Male"
+    },
+    {
+        "name": "Kokichi Oma",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/66/Kokichi_Oma_Ouma_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180925005631",
+        "gender": "Male"
+    },
+    {
+        "name": "Komaru Naegi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d7/Komaru_Naegi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205215124",
+        "gender": "Female"
+    },
+    {
+        "name": "Korekiyo Shinguji",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3f/Korekiyo_Shinguji_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185357",
+        "gender": "Male"
+    },
+    {
+        "name": "Kotoko Utsugi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/6c/Kotoko_Utsugi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205223440",
+        "gender": "Female"
+    },
+    {
+        "name": "Kurokuma",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3f/Kurokuma_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205225850",
+        "gender": "Male"
+    },
+    {
+        "name": "Kyoko Kirigiri",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180925005620",
+        "gender": "Female"
+    },
+    {
+        "name": "Kyosuke Munakata",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/0d/Danganronpa_3_-_Kyosuke_Munakata_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144413",
+        "gender": "Male"
+    },
+    {
+        "name": "Leon Kuwata",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/4f/Leon_Kuwata_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210509213350",
+        "gender": "Male"
+    },
+    {
+        "name": "Mahiru Koizumi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3f/Mahiru_Koizumi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170608005250",
+        "gender": "Female"
+    },
+    {
+        "name": "Maki Harukawa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/1a/Maki_Harukawa_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185514",
+        "gender": "Female"
+    },
+    {
+        "name": "Makoto Naegi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7c/Makoto_Naegi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170510004857",
+        "gender": "Male"
+    },
+    {
+        "name": "Masaru Daimon",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/4e/Masaru_Daimon_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205220341",
+        "gender": "Male"
+    },
+    {
+        "name": "Mekuru Katsuragi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/c/cc/Mekuru_Katsuragi.png/revision/latest/scale-to-width-down/304?cb=20161015194325",
+        "gender": "Female"
+    },
+    {
+        "name": "Miaya Gekkogahara",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d9/Danganronpa_3_-_Miaya_Gekkogahara_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144416",
+        "gender": "Female"
+    },
+    {
+        "name": "Mikan Tsumiki",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b0/Mikan_Tsumiki_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170709025514",
+        "gender": "Female"
+    },
+    {
+        "name": "Mimiko Tomizawa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b1/MimikoTomizawa.PNG/revision/latest?cb=20161101075808",
+        "gender": "Female"
+    },
+    {
+        "name": "Misaki Asano",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/eb/Misaki_Asano_.png/revision/latest?cb=20170510003427",
+        "gender": "Female"
+    },
+    {
+        "name": "Miu Iruma",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/3b/Miu_Iruma_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210903211055",
+        "gender": "Female"
+    },
+    {
+        "name": "Momomichi Itō",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b0/Momomichi_It%C5%8D_Infobox.png/revision/latest/scale-to-width-down/350?cb=20170308030032",
+        "gender": "Male"
+    },
+    {
+        "name": "Monaca Towa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/c/c5/Monaca_Towa_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205225543",
+        "gender": "Female"
+    },
+    {
+        "name": "Mondo Owada",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d1/Mondo_Owada_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210508214924",
+        "gender": "Male"
+    },
+    {
+        "name": "Monodam",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/e2/Monodam_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620190437",
+        "gender": "Male"
+    },
+    {
+        "name": "Monokid",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/ab/Monokid_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620190402",
+        "gender": "Male"
+    },
+    {
+        "name": "Monokuma",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b4/Monokuma_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170716023807",
+        "gender": "Male"
+    },
+    {
+        "name": "Monokuma Kids",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/4/48/Monokuma_Kid_Male_Fullbody_3D_Model.png/revision/latest?cb=20170131161452",
+        "gender": "Male"
+    },
+    {
+        "name": "Monomi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/2/24/Danganronpa_S_Monomi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205221218",
+        "gender": "Female"
+    },
+    {
+        "name": "Monophanie",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/ee/Monophanie_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620190333",
+        "gender": "Female"
+    },
+    {
+        "name": "Monosuke",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/f/f5/Monosuke_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185801",
+        "gender": "Male"
+    },
+    {
+        "name": "Monotaro",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/34/Monotarou_Monotaro_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185743",
+        "gender": "Male"
+    },
+    {
+        "name": "Mukuro Ikusaba",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/06/Mukuro_Ikusaba_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210508221203",
+        "gender": "Female"
+    },
+    {
+        "name": "Nagisa Shingetsu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/80/Nagisa_Shingetsu_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205224147",
+        "gender": "Male"
+    },
+    {
+        "name": "Nagito Komaeda",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7d/Nagito_Komaeda_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180925005643",
+        "gender": "Male"
+    },
+    {
+        "name": "Nagito Komaeda (Illusion)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/1e/Danganronpa_3_-_Nagito_Komaeda_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830113332",
+        "gender": "Male"
+    },
+    {
+        "name": "Natsumi Kuzuryu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/c/c2/Danganronpa_3_-_Natsumi_Kuzuryu_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830182952",
+        "gender": "Female"
+    },
+    {
+        "name": "Nekomaru Nidai",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/85/Nekomaru_Nidai_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170804034803",
+        "gender": "Male"
+    },
+    {
+        "name": "Peko Pekoyama",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170907184747",
+        "gender": "Female"
+    },
+    {
+        "name": "Physical Education Teacher",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/be/PE_Teacher_Transparent.png/revision/latest/scale-to-width-down/350?cb=20170219224139",
+        "gender": "Female"
+    },
+    {
+        "name": "Princess Piggles",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/53/Buuko_transparent.png/revision/latest/scale-to-width-down/350?cb=20170530040025",
+        "gender": "Female"
+    },
+    {
+        "name": "Rantaro Amami",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b3/Rantarou_Rantaro_Amami_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170425143131",
+        "gender": "Male"
+    },
+    {
+        "name": "Rei Shimizu",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/09/Danganronpa_Killer_Killer_Nurse_Rei_Shimizu_Sidebar.png/revision/latest?cb=20170512213923",
+        "gender": "Female"
+    },
+    {
+        "name": "Ruruka Ando",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/67/Danganronpa_3_-_Ruruka_Ando_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144418",
+        "gender": "Female"
+    },
+    {
+        "name": "Ryoko Otonashi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/0a/Ryoko_Otonashi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210625092621",
+        "gender": "Female"
+    },
+    {
+        "name": "Ryoma Hoshi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/ae/Ryoma_Hoshi_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185715",
+        "gender": "Male"
+    },
+    {
+        "name": "Ryota Mitarai",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/2/28/Danganronpa_3_-_Ryota_Mitarai_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144420",
+        "gender": "Male"
+    },
+    {
+        "name": "Sakuma Fujii",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/bb/Sakuma_Fujii.png/revision/latest?cb=20160916095155",
+        "gender": "Male"
+    },
+    {
+        "name": "Sakura Ogami",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/73/Sakura_Ogami_Transparent_Illustration.png/revision/latest/scale-to-width-down/350?cb=20201223024049",
+        "gender": "Female"
+    },
+    {
+        "name": "Sato",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/2/2f/Danganronpa_3_-_Sato_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830182954",
+        "gender": "Female"
+    },
+    {
+        "name": "Sayaka Maizono",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/ba/Sayaka_Maizono_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170310000647",
+        "gender": "Female"
+    },
+    {
+        "name": "Seiko Kimura",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/75/Danganronpa_3_-_Seiko_Kimura_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144424",
+        "gender": "Female"
+    },
+    {
+        "name": "Shirokuma",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/e5/Shirokuma_Illustration.png/revision/latest/scale-to-width-down/350?cb=20211205225940",
+        "gender": "Male"
+    },
+    {
+        "name": "Shuichi Saihara",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/6/6c/Shuuichi_Shuichi_Saihara_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180416195826",
+        "gender": "Male"
+    },
+    {
+        "name": "Shūji Fujigawa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/c/c1/FujikawaProfile.jpg/revision/latest/scale-to-width-down/350?cb=20160809163032",
+        "gender": "Male"
+    },
+    {
+        "name": "Sonia Nevermind",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/57/Sonia_Nevermind_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170708223405",
+        "gender": "Female"
+    },
+    {
+        "name": "Sonia Nevermind (Illusion)",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/8/8c/Danganronpa_3_-_Sonia_Nevermind_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830113338",
+        "gender": "Female"
+    },
+    {
+        "name": "Sonosuke Izayoi",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b4/Danganronpa_3_-_Sonosuke_Izayoi_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830144427",
+        "gender": "Male"
+    },
+    {
+        "name": "Super High School Level Make-up Artist",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/b/b2/Former_SHSL_Makeup_Artist.png/revision/latest/scale-to-width-down/175?cb=20160711151743",
+        "gender": "Female"
+    },
+    {
+        "name": "Sōshun Murasame",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/91/Soushun_Murasame_Transparent.png/revision/latest?cb=20170219233535",
+        "gender": "Male"
+    },
+    {
+        "name": "Taichi Fujisaki",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/c/c6/Danganronpa_Another_Episode_-_Taichi_Fujisaki_Model_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830135000",
+        "gender": "Male"
+    },
+    {
+        "name": "Takumi Hijirihara",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/11/DRGKK_Takumi_Hijirihara.png/revision/latest?cb=20161207114256",
+        "gender": "Male"
+    },
+    {
+        "name": "Ted Chikatilo",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/06/Tedtruepicture.png/revision/latest?cb=20160722132146",
+        "gender": "Male"
+    },
+    {
+        "name": "Tenko Chabashira",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/f/fc/Tenko_Chabashira_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170620185558",
+        "gender": "Female"
+    },
+    {
+        "name": "Teruteru Hanamura",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/2/27/Teruteru_Hanamura_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170705010003",
+        "gender": "Male"
+    },
+    {
+        "name": "The Madarai Brothers",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/e/e8/Madarai_Brothers_Illustration.png/revision/latest/scale-to-width-down/350?cb=20200830183024",
+        "gender": "Male"
+    },
+    {
+        "name": "The Steering Committee",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d0/The_Steering_Committee_Illustration.png/revision/latest/scale-to-width-down/350?cb=20200830183026",
+        "gender": "Male"
+    },
+    {
+        "name": "Toko Fukawa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/d/d4/Toko_Fukawa_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170524232846",
+        "gender": "Female"
+    },
+    {
+        "name": "Tokuichi Towa",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7a/Tokuichi_Towa.png/revision/latest?cb=20190705222916",
+        "gender": "Male"
+    },
+    {
+        "name": "Tsumugi Shirogane",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/0/0b/Tsumugi_Shirogane_Illustration.png/revision/latest/scale-to-width-down/350?cb=20180416200025",
+        "gender": "Female"
+    },
+    {
+        "name": "Ultimate Imposter",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/7/7a/Byakuya_Togami_Ultimate_Imposter_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170826011009",
+        "gender": "Male"
+    },
+    {
+        "name": "World Vanquisher",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/9/9c/Danganronpa_2.5_-_World_Destroyer.png/revision/latest/scale-to-width-down/350?cb=20200830113308",
+        "gender": "Male"
+    },
+    {
+        "name": "Yasuhiro Hagakure",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/1/19/Yasuhiro_Hagakure_Illustration.png/revision/latest/scale-to-width-down/350?cb=20170716011322",
+        "gender": "Male"
+    },
+    {
+        "name": "Yasuke Matsuda",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/a/a0/Yasuke_Matsuda_Illustration.png/revision/latest/scale-to-width-down/333?cb=20210625110318",
+        "gender": "Male"
+    },
+    {
+        "name": "Yui Samidare",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/3/30/Danganronpa_Kirigiri_-_Yui_Samidare_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20210616050126",
+        "gender": "Female"
+    },
+    {
+        "name": "Yuta Asahina",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/5/54/Danganronpa_Another_Episode_-_Yuta_Asahina_Model_Sidebar.png/revision/latest/scale-to-width-down/350?cb=20200830135005",
+        "gender": "Male"
+    },
+    {
+        "name": "Yuto Kamishiro",
+        "image": "https://static.wikia.nocookie.net/danganronpa/images/f/f5/Yuto_Kamishiro_Illustration.png/revision/latest/scale-to-width-down/350?cb=20210128041103",
+        "gender": "Male"
+    }
+]
