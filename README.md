@@ -1,5 +1,4 @@
-Para actualizar `requirements.txt`:
+Variety Discord bot to host on serverless hosting services with multiple functionalities.
 
-```bash
-pdm list --freeze > requirements.txt
-```
+You can see MakiBot's entire documentation here:
+<https://makibot.netlify.app/>
