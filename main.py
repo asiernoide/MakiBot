@@ -109,13 +109,18 @@ app = discohook.Client(
 
 
 def _get_random_characters(char_collection: str, num: int = 1, gender: Union[str, None] = None):
-    '''Obtiene una lista de "num" personajes aleatorios de cualquier colección de la base de datos
-    O el personaje obtenido si "num" es 1.
-    Parámetros:
-        char_collection: Nombre de la colección de la base de datos.
-        num: Número de personajes a obtener.
-        gender: Género de los personajes a obtener ("Male" o "Female").
-    '''
+    """Obtiene una lista de "num" personajes aleatorios de cualquier colección de la base de datos
+    o el personaje obtenido si "num" es 1.
+
+    Args:
+        - char_collection (str): Nombre de la colección de la base de datos.
+        - num (int, optional): Número de personajes a obtener. Defaults to 1.
+        - gender (Union[str, None], optional): Género de los personajes a obtener ("Male" o "Female"). Defaults to None.
+
+    Returns:
+        - list: Lista de personajes aleatorios -> Cuando la lista resultante tiene más de un elemento.
+        - dict: Personaje aleatorio -> Cuando la lista resultante tiene un solo elemento.
+    """
 
     # Define la lista de operaciones de agregación
     pipeline = [{"$sample": {"size": num}}]
