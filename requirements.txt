@@ -13,7 +13,7 @@ discohook @ git+https://github.com/jnsougata/discohook@d3ce5844c08264a6df5d25c9c
 dnspython==2.6.1
 fastapi==0.95.1
 frozenlist==1.3.3
-idna==3.7
+idna==3.15
 multidict==6.0.4
 pip==23.3
 pycodestyle==2.10.0
